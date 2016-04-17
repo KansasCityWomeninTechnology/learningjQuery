@@ -11,11 +11,10 @@ First, you'll need to include links to the jQuery library and your scripts files
 [hint](https://api.jquery.com/ready/)
 
 
-1. Make clicking the "validate" button change the input text color to red. [hint](http://api.jquery.com/css/)
-2. Make clicking the "show error message" button append the following warning text to the .warning div: "These fields are required to complete order form". [hint](http://api.jquery.com/append/)
-3. Make clicking the "show brunch" button show the hidden brunch div. [hint](http://api.jquery.com/show/)
-4. Make clicking the "hide brunch" button hide the now showing brunch div. [hint](http://api.jquery.com/hide/)
-5. BONUS CHALLENGE: Make clicking the "order ready" button get the value from the item box and display it at the top of the page inside an 'h1' tag. [hint 1](http://api.jquery.com/val/) [hint 2](http://api.jquery.com/append/)
+1. Make clicking the "show brunch" button show the hidden brunch div. [hint](http://api.jquery.com/show/)
+2. Make clicking the "hide brunch" button hide the now showing brunch div. [hint](http://api.jquery.com/hide/)
+3. Make clicking any checkbox turn the background of the label element to a color of your choice. [hint](http://api.jquery.com/css/)
+4. BONUS CHALLENGE: Make clicking the "order ready" button get the value from the name input and display it at the top of the page inside an 'h1' tag as "{{name}}'s order is ready". [hint 1](http://api.jquery.com/val/) [hint 2](http://api.jquery.com/append/)
 
 ### Adding Plugins
 
